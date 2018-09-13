@@ -3,7 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  APP_ID_SCAN_GO_API: 'https://services.assureid.net',
+  APP_USER_NAME: 'ajay.sapre@aspendental.com',
+  APP_USER_PASSWORD: 'ae034q95cy4p7rom',
+  APP_AUTH_METHOD: 'Basic',
+  APP_SUBSCRIPTION_ID: 'a7e42088-48ac-42a7-a92a-c9afe4028a60'
 };
 
 /*
